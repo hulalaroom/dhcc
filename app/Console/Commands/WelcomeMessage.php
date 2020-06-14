@@ -38,5 +38,9 @@ class WelcomeMessage extends Command
     public function handle()
     {
         //asdasdas
+        //1
+        //2
+        //3
+        //4
     }
 }
