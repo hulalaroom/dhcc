@@ -38,5 +38,6 @@ class WelcomeMessage extends Command
     public function handle()
     {
         //asdasdas
+        //rebase
     }
 }
