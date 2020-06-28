@@ -16,3 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+//get请求，结果如下图
+Route::get('basic1',function (){
+    return 'Hello World';
+  });
+  //post请求，这里不展示结果图
+  Route::post('basic2',function (){
+    return 'Post';
+  });
